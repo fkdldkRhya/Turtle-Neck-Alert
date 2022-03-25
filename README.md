@@ -12,8 +12,6 @@
 
 ![이미지 업로드 결과 사진](https://i.imgur.com/alGLgp5.jpg)
 
-![이미지 업로드 결과 사진](https://i.imgur.com/alGLgp5.jpg)
-
 ![서비스 사진](https://i.imgur.com/OVCdHbG.jpg)
 
 ## License
